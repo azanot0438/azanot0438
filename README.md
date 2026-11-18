@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 
+I am currently learning how to use GitHub as a student at BYU.
+I love kung-fu panda, sports, and people!!!
 
 <!--
 **azanot0438/azanot0438** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
